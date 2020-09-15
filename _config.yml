@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1 title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}>DATA CURIOSITY</h1>
+  section1: <h1 title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">DATA CURIOSITY</h1>
   section2: <h2>The place that share everything we know</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/datacuriosity" title="View on GitHub"></a></div>
 blog:
