@@ -5,7 +5,7 @@ subtitle: Each post also has a subtitle
 gh-repo: datacuriosity/datacuriosity.github.io
 gh-badge: [star, fork, follow]
 tags: [Cholesky decomposition]
-category: [Dimensionlity reduction, Decomposition]
+category: [Dimensionlity-reduction, Decomposition]
 comments: true
 ---
 # Phân rã Cholesky
