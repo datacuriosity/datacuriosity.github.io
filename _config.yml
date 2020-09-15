@@ -51,8 +51,8 @@ home:
   section2: <h2>The place that share everything we know</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/datacuriosity" title="View on GitHub"></a></div>
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+#  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+#  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License.
 #  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
 
 disqus:
@@ -62,7 +62,7 @@ google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
 
 paths:
-  home: /
-  blog: /blog/
+  home: /blog/
+#  blog: /blog/
   categories: /blog/categories/
   tags: /blog/tags/
